@@ -11,6 +11,10 @@ export default function HomePage() {
 				<Link to="Bruce Wayne">User Page</Link>
 				<Link to="Thor">User Page</Link>
 				<Link to="Tony Stark">User Page</Link>
+				<Link to="Hulk">User Page</Link>
+				<Link to="ABC">User Page</Link>
+				<Link to="XYZ">User Page</Link>
+				// Add any number of User Page links here
 			</div>
 		</div>
 	)
