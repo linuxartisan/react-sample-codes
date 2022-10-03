@@ -8,7 +8,7 @@ import Menu from "./recipe_app/RecipeApp";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
-RecipeApp
+// RecipeApp
 root.render(
 	Menu
 )
